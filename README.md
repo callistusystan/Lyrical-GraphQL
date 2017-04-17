@@ -2,6 +2,9 @@
 
 This project is a simple web app for creating songs and adding lyrics. It features a "like" functionality, allowing users to thumb up lyrics in a song. This project was made with React, Apollo Client for GraphQL, Express, GraphQL and MongoDB
 
+
+Made while taking the GraphQL course instructed by Stephen Grider. https://www.udemy.com/graphql-with-react-course/
+
 ## Screenshots
 <img src="/screenshots/screenshot1.png">
 <img src="/screenshots/screenshot2.png">
